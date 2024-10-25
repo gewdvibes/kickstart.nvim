@@ -607,7 +607,7 @@ require('lazy').setup({
       local servers = {
         -- clangd = {},
         gopls = {},
-        basedpyright = {},
+        pyright = {},
         rust_analyzer = {},
         ocamllsp = {},
         -- ... etc. See `:help lspconfig-all` for a list of all the pre-configured LSPs
